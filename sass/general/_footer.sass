@@ -1,9 +1,17 @@
 @use '../general/variables'
+@use '../general/mixins'
 
 footer
 	text-align: left
 	width: 1000px
 	margin: 50px auto
+
+	@include mixins.mobile
+			width: 90%
+			text-align: center
+
+			li
+				margin-bottom: 10px
 
 	#footer-links
 		list-style: none

@@ -1,13 +1,25 @@
 @use '../general/variables'
+@use '../general/mixins'
 
 .main-container
 	display: flex
 	flex-direction: row
-	margin-top: 20px
+	margin-top: 20px	
+
+	@include mixins.mobile 		
+		#form-box
+			margin-top: 0
+		
+		.banner-container	
+			display: none
+		
+		.form-container, #form-box, #register-container, #get-app-container
+			width: 100%
+			border: none
 
 	.banner-container, .form-container
 		flex: 1 1 0
-		width: 50%
+		width: 50%	
 
 	.banner-container
 		text-align: right
