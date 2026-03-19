@@ -7,7 +7,7 @@ Este é um projeto de front-end que replica a interface da página de login do I
 
 ## 🔗 Demonstração Online
 Você pode visualizar o projeto em execução aqui:  
-👉 [SUBSTITUA-PELO-SEU-LINK-DO-GITHUB-PAGES-AQUI]
+👉 https://denielcordeiro.github.io/home-page-Instagram
 
 ## 🚀 Tecnologias Utilizadas
 
