@@ -35,3 +35,8 @@ Você pode visualizar o projeto localmente seguindo um dos métodos abaixo:
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/DenielCordeiro/home-page-Instagram.git](https://github.com/DenielCordeiro/home-page-Instagram.git)
+
+
+
+Este projeto foi desenvolvido para fins de estudo e prática de desenvolvimento web.
+Desenvolvido por Daniel.
