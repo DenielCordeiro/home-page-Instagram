@@ -7,9 +7,7 @@ Este é um projeto de front-end que replica a interface da página de login do I
 
 ## 🔗 Demonstração Online
 Você pode visualizar o projeto em execução aqui:  
-<a href="https://denielcordeiro.github.io/home-page-Instagram" target="_blank" rel="noopener noreferrer">
-   👉 Tela Inicial do Instagram
-</a>
+👉 <a href="https://denielcordeiro.github.io/home-page-Instagram/" target="_blank">Ver Página</a>
 
 
 
